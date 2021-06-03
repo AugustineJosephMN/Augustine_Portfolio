@@ -48,3 +48,6 @@ The yolov3 is used to detect the eyeballs from face.
 1.Variance Threshold 
 2.Correlation
 3.Mutual Information In Classification Problem Statements
+# Project5:https://github.com/AugustineJosephMN/Eda_and_Pandas
+Eda with pandas and matplotlib.
+Reading and vilisualisation of datasets.
