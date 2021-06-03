@@ -1,14 +1,14 @@
 # Augustine_Portfolio
 ## My Data Science Portfolio
 
-# Project 1.
+# Project 1.https://github.com/AugustineJosephMN/Movie-recommendation-cloab-and-contentbased
 Movie reccomentation system having both colaboratory and contentbased filtering.
 Flask is used as front end. The movie-name is given and the most similar or co-related movie from Imdb dataset is choosen.
-# Project 2.
+# Project 2.https://github.com/AugustineJosephMN/contactlens
 Contact-lens.
 Identify the eyeball and calculate the area of eyeball using open cv and place lens of different color.
 The yolov3 is used to detect the eyeballs from face.
-# Project 3.
+# Project 3.https://github.com/AugustineJosephMN/Feature-Engineering
 # Feature-Engineering
 ## Different types of Missing Data.
 ### Missing Completely at Random, MCAR:
@@ -103,7 +103,7 @@ The Box-Cox transformation is defined as:
 T(Y)=(Y exp(λ)−1)/λ
 where Y is the response variable and λ is the transformation parameter. λ varies from -5 to 5. In the transformation, all values of λ are considered and the optimal value for a given variable is selected.
 
-# Project 4.
+# Project 4.https://github.com/AugustineJosephMN/Feature-Selection-Techniques
 # Feature-Selection-Techniques
 ## Dropping constant features
 Removing the features which have constant features which are actually not important for solving the problem statement.
